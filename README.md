@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael G Atip Castronuevo</h1>
-<h3 align="center">A passionate Full-Stack developer from Irvine</h3>
+<h3 align="center">A Full-Stack developer from Irvine</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
