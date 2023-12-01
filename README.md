@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Michael G Atip Castronuevo</h1>
 <h3 align="center">A Full-Stack developer from Irvine</h3>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://m-castronuevo.netlify.app/](https://m-castronuevo.netlify.app/)
 
-- 💬 Ask me about **JS,HTML, CSS**
+- 💬 Ask me about **JS, HTML, CSS, Python, why ghosts probably don't exist**
 
 - 📫 How to reach me **Matipcastronuo@gmail.com**
 
