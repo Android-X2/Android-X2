@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/michael-g-atip-castronuevo/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1dheXiOZnKAi4uNOhV4WFg5gsuU4KqAYjIli7QgQ-6A4/edit?usp=sharing](https://docs.google.com/document/d/1dheXiOZnKAi4uNOhV4WFg5gsuU4KqAYjIli7QgQ-6A4/edit?usp=sharing)
-
 - ⚡ Fun fact **Mitochondria is the powerhouse of the cell**
 
 <h3 align="left">Connect with me:</h3>
