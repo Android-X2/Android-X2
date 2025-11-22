@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael G Atip Castronuevo</h1>
 <h3 align="center">A Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning Stuff**
+- 🌱 I’m currently learning **QA Stuff**
 
 - 👨‍💻 All of my projects are available at [https://m-castronuevo.netlify.app/](https://m-castronuevo.netlify.app/)
 
-- 💬 Ask me about **why ghosts probably don't exist!**
+- 💬 Ask me about **What my favorite technologies are or what is the best type of bread!**
 
-- 📫 How to reach me **Matipcastronuo@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/michael-g-atip-castronuevo/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1dheXiOZnKAi4uNOhV4WFg5gsuU4KqAYjIli7QgQ-6A4/edit?usp=sharing](https://docs.google.com/document/d/1dheXiOZnKAi4uNOhV4WFg5gsuU4KqAYjIli7QgQ-6A4/edit?usp=sharing)
 
