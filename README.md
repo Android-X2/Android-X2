@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael G Atip Castronuevo</h1>
+<h1 align="center">Hi 👋, I'm Michael!</h1>
 
 - 🌱 I’m currently learning **QA Stuff**
 
